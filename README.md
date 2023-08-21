@@ -12,7 +12,11 @@ This project aims to predict the prices of crypto tokens in the DeFi ecosystem u
 - matplotlib
 
 To install the libraries:
+```bash
 pip install pandas numpy sklearn matplotlib
+```
+
+
 
 
 ### Data Sets
@@ -30,7 +34,10 @@ In this project, the RandomForestRegressor model was used to predict token price
 
 ## Usage
 To run the project code:
+```bash
 python __main__.py
+```
+
 
 
 ## Results
